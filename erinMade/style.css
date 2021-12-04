@@ -1,0 +1,20 @@
+#container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn {
+  border: none;
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  background-color: tomato;
+  /*background-color: rgb(83, 72, 230);*/
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 120%;
+  cursor: pointer;
+}
